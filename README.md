@@ -17,4 +17,4 @@ cmake .. -Wno-dev
 - cmake >= 3.14
 - rustc >= ?
 - cargo >= ?
-- libmft >= ?
+- libfmt >= ?
